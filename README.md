@@ -6,7 +6,7 @@
 ## Steps 
 - Files include similarities in code but are meant to show the work through stages:
     1. Writing a function to read in three data files and testing it
-    See [ETL_function_test.ipynb](https://github.com/a-memme/Movie_Data_ETL/blob/main/ETL_function_test.ipynb)
+    *(See [ETL_function_test.ipynb](https://github.com/a-memme/Movie_Data_ETL/blob/main/ETL_function_test.ipynb))
     
     2. Cleaning Wikipedia data read into a Pandas DataFrame *(See ETL_clean_wiki_data.ipynb)*
     4. Cleaning Kaggle data in addition to wikipedia data and merge with ratings data *(See ETL_clean_kaggle_data.ipynb)*
