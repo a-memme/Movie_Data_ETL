@@ -1,2 +1,2 @@
 ## Query Files 
-- Showing proof of success in loading into postgreSQL database and SQL query.
+- Proof of successful PostgreSQL load
