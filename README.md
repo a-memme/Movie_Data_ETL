@@ -1,4 +1,4 @@
-# Movies_ETL
+# Movie Data ETL (Extract, Transform, Load)
 
 ## Purpose
 - Performing ETL on Wikipedia movie data, Kaggle metadata and MovieLens rating data and adding it to a PostgresSQL database.
