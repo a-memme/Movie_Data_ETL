@@ -5,7 +5,7 @@
 
 ## Steps 
 - Files include similarities in code but are meant to show the work through stages:
-    1. Writing a function to read in three data files and testing it
+    1. Writing a function to read in three data files and testing
     (See [ETL_function_test.ipynb](https://github.com/a-memme/Movie_Data_ETL/blob/main/ETL_function_test.ipynb))
     
     2. Cleaning Wikipedia data read into a Pandas DataFrame 
