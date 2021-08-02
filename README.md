@@ -8,7 +8,7 @@
     1. Writing a function to read in three data files and testing
     (See [ETL_function_test.ipynb](https://github.com/a-memme/Movie_Data_ETL/blob/main/ETL_function_test.ipynb))
     
-    2. Cleaning Wikipedia data read into a Pandas DataFrame 
+    2. Wikipedia data read into a Pandas DataFrame and Cleaned
     (See [ETL_clean_wiki_movies.ipynb](https://github.com/a-memme/Movie_Data_ETL/blob/main/ETL_clean_wiki_movies.ipynb))
     
     3. Cleaning Kaggle data in addition to wikipedia data and merge with ratings data 
