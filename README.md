@@ -12,7 +12,7 @@
     (See [ETL_clean_wiki_movies.ipynb](https://github.com/a-memme/Movie_Data_ETL/blob/main/ETL_clean_wiki_movies.ipynb))
     
     3. Cleaning Kaggle data in addition to wikipedia data and merge with ratings data 
-    (See [ETL_clean_kaggle_data.ipynb](https://github.com/a-memme/Movie_Data_ETL/blob/main/ETL_clean_kaggle_data.ipynb)
+    (See [ETL_clean_kaggle_data.ipynb](https://github.com/a-memme/Movie_Data_ETL/blob/main/ETL_clean_kaggle_data.ipynb))
     
     4. Finish the ETL process by loading all data into a postgreSQL database 
-    (See [ETL_create_database.ipynb](https://github.com/a-memme/Movie_Data_ETL/blob/main/ETL_create_database.ipynb)
+    (See [ETL_create_database.ipynb](https://github.com/a-memme/Movie_Data_ETL/blob/main/ETL_create_database.ipynb))
